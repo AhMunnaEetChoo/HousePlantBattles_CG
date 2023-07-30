@@ -1,0 +1,15 @@
+Name,type,points,damage,damage type,Resistance,Weakness,resilience,special text,image
+Cactus,hardy,1,1,physical,physical,,4,cant be moved,cactus.png
+Venus Fly Trap,hardy,1,2,physical,,shade,3,,flytrap.png
+Orchid,flower,2,,,,physical,2,points +2 for each neighbouring flower,orchid.png
+Sunflower,flower,3,,,,shade,2,,sunflower.png
+Banana Tree,leafy,1,2,shade,,,3,,tree.png
+Monstera,leafy,1,1,shade,,,3,points +1 for each leaf,monstera.png
+Peace Lily,flower,1,,,shade,,3,boost neighbours resistance by 1,peacelily.png
+Money Plant,leafy,1,,,,,2,boost neighbours points by 2,money.png
+Monkey Mask,leafy,1,,,shade,,2,shuffles one neighbour,monkey.png
+Devil's Ivy,hardy,1,,,,,4,sticks neighbours to itself,ivy.png
+Tidy Up,event,,,,,,,remove a plant and its attached items,tidy.png
+Water,item,,,,,,,x2 resilience +1 points,water.png
+Fertilizer,item,,,,,,,x2 damage +1 points,fertilizer.png
+Beautiful Pot,item,,,,,,,x2 points -1 resilience,pot.png
