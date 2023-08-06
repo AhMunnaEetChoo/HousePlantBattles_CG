@@ -1,3 +1,5 @@
+![alt text](https://github.com/AhMunnaEetChoo/HousePlantBattles_CG/blob/main/hps_cards.png?raw=true)
+
 # HousePlantBattles_CG
  1 on 1 card game
 
@@ -22,3 +24,8 @@ Tom C:
 Diggle:
 - make tidy up remove the last card, not all of them in stack
 - liked the bluffing version
+
+
+Alternate win conditions:
+2nd player can end the game, otherwise 2nd player can add 1 more plant (this may be too powerful so item?)
+after the 9th plant is played players make a final bluff play, resolve the bluffs in order starting with final player first
