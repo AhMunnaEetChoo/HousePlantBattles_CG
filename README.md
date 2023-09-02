@@ -29,3 +29,13 @@ Diggle:
 Alternate win conditions:
 2nd player can end the game, otherwise 2nd player can add 1 more plant (this may be too powerful so item?)
 after the 9th plant is played players make a final bluff play, resolve the bluffs in order starting with final player first
+
+
+Concept feedback from Rob:
+colour instead of type is ace
+art style is perfect blend of cute realistic
+different palette of colour maybe? (Ollie is happy with it)
+need more explanation text in places
+use dice for numbers so we can view both ways around
+resilience in black/white circle instead of green
+points gold is good - star shape, victory pointy chubby star like a mario star
