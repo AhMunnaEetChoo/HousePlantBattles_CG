@@ -39,3 +39,8 @@ need more explanation text in places
 use dice for numbers so we can view both ways around
 resilience in black/white circle instead of green
 points gold is good - star shape, victory pointy chubby star like a mario star
+
+15-1-2024 feedback:
+change the colour of the fertilizer multiplier - everyone assumes it applies to physical damage only
+the bird of paradise movement, order and timing gets confused.
+the peace lily bonus is unclear if it applies before damage is dealt.
